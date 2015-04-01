@@ -21,12 +21,14 @@ header {
 header img {
   width: 50px;
   height: auto;
+  opacity: 0.7;
 }
 
 h1, h3, h4, time {
   font-family: 'Teko', Helvetica, sans-serif;
   font-weight: 300;
   text-transform: uppercase;
+  letter-spacing: 3px;
 }
 
 h1 {
